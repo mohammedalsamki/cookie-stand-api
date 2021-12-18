@@ -1,7 +1,7 @@
 # drf-auth
 Lab: Authentication &amp; Production Server
 
-
+   [link deploy](https://cooki-api.herokuapp.com/)
 
 - admin :  Pass@123
 - user  :  Pass@123
