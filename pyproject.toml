@@ -5,7 +5,7 @@ description = ""
 authors = ["Odeh <abuzaid163@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8.1.0"
 Django = "^3.2.9"
 sqlparse = "^0.4.2"
 djangorestframework = "^3.12.4"
